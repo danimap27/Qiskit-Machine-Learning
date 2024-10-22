@@ -1,6 +1,6 @@
 # Qiskit-Machine-Learning
 
-* [Quantum Neural Networks(QNN)](TEMA1/QuantumNeuralNetworks.md)
+* [Quantum Neural Networks(QNN)](Tema1/QuantumNeuralNetworks.md)
 * Neural Network Classifier & Regressor
 * Training a Quantum Model on a Real Dataset
 * Quantum Kernel Machine Learning
